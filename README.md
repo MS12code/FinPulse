@@ -210,12 +210,6 @@ npm run dev
 
 ---
 
-## 🎯 Resume Description
-
-> Built **FinPulse**, an AI-powered finance management dashboard using the MERN stack, featuring automated transaction categorization and intelligent financial insights through AI integration.
-
----
-
 ## 🧑‍💻 Author
 
 **Medha Sharma**
