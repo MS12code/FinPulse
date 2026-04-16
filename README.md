@@ -80,7 +80,7 @@ Users can ask natural language queries:
 
 ### AI Integration
 
-* OpenAI API (for categorization & insights)
+* SambaNova API 
 
 ---
 
